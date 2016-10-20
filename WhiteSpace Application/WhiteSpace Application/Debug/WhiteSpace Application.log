@@ -1,0 +1,24 @@
+﻿  Part2.c
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(40): warning C4013: 'gets' undefined; assuming extern returning int
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(54): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(68): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(68): warning C4024: 'fgets': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(69): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(69): warning C4024: 'strlen': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(77): warning C4047: '==': 'int' differs in levels of indirection from 'void *'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(91): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(91): warning C4024: 'fgets': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(92): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(92): warning C4024: 'strtok': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(118): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(118): warning C4024: 'strncpy': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(118): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(118): warning C4024: 'strncpy': different types for formal and actual parameter 2
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(144): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[25]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(144): warning C4024: 'strtok': different types for formal and actual parameter 1
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(153): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char *[1]'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(153): warning C4024: 'strcmp': different types for formal and actual parameter 2
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(139): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\daniel\documents\visual studio 2015\projects\whitespace application\whitespace application\part2.c(131): warning C4715: 'init_access': not all control paths return a value
+  WhiteSpace Application.vcxproj -> C:\Users\Daniel\documents\visual studio 2015\Projects\WhiteSpace Application\Debug\WhiteSpace Application.exe
+  WhiteSpace Application.vcxproj -> C:\Users\Daniel\documents\visual studio 2015\Projects\WhiteSpace Application\Debug\WhiteSpace Application.pdb (Partial PDB)

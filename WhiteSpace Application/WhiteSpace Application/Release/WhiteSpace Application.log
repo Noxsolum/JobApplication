@@ -1,0 +1,10 @@
+﻿  Part1.c
+Part1.c(36): warning C4013: 'gets' undefined; assuming extern returning int
+Part1.c(41): warning C4013: 'system' undefined; assuming extern returning int
+  Generating code
+  4 of 5 functions (80.0%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  WhiteSpace Application.vcxproj -> C:\Users\Daniel\documents\visual studio 2015\Projects\WhiteSpace Application\Release\WhiteSpace Application.exe
+  WhiteSpace Application.vcxproj -> C:\Users\Daniel\documents\visual studio 2015\Projects\WhiteSpace Application\Release\WhiteSpace Application.pdb (Full PDB)
